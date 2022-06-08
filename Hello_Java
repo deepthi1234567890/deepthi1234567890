@@ -1,0 +1,5 @@
+public class java_hello1 {
+          public static void main(String[] args) {
+                 System.out.println("hello java this is my first program")
+       }
+}
